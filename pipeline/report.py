@@ -42,7 +42,6 @@ TEMPLATE = """<!DOCTYPE html>
 <img src="{img_pc}" alt="CO2 per capita">
 
 <h2>4. Total Emissions Change – 2000 to 2023</h2>
-<img src="{img_pct}" alt="Percent change">
 {table_pct}
 
 <h2>5. CO₂ Source Breakdown (2023)</h2>
